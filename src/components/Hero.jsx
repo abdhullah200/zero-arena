@@ -4,7 +4,7 @@ const Hero = () => {
     return (
         <main id="hero" className="relative w-full h-screen overflow-hidden flex justify-center items-center">
             <video
-                src="public/videos/hero.mp4"
+                src="/videos/hero.mp4"
                 muted
                 autoPlay
                 loop
