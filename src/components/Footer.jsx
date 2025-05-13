@@ -6,7 +6,7 @@ const Footer = () => {
         <footer className="flex flex-col items-center lg:mt-[15%] mt-[25%] py-8 md:px-16 px-8 border-t-[0.3px] border-[#babaff]">
             {/* Main content row */}
             <div className="w-full flex items-center justify-between">
-                <img className="h-10" src="public/images/illu-text.png" alt="Illu-text" />
+                <img className="h-10" src="/images/illu-text.png" alt="Illu-text" />
 
                 <img className="h-16 md:inline hidden" src="public/images/illu-logo.png" alt="Illu-logo" />
 
