@@ -13,7 +13,7 @@ const Hero = () => {
             ></video>
 
             <div className='relative flex flex-col items-center gap-5 text-center'>
-                <img src="public/images/illu-text.png" alt="Illu-text"
+                <img src="/images/illu-text.png" alt="Illu-text"
                      className='md:w-[30rem] w-[20rem]' />
 
                 <h1 className='md:text-2xl text-1xl font-bold'>Explore, Capture, Conquer</h1>
@@ -22,7 +22,7 @@ const Hero = () => {
 
 
                 <div className='flex items-center gap-5 text-3xl font-extrabold text-gray-200'>
-                    <img className='md:h-16 h-12' src='public/images/illu-logo.png' alt=''/>ZERO
+                    <img className='md:h-16 h-12' src='/images/illu-logo.png' alt=''/>ZERO
                 </div>
 
                 <p className='max-w-[80%] text-[#babaff]'>
