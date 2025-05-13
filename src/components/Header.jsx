@@ -15,7 +15,7 @@ export default function Header() {
         <header className="py-1 px-7 flex justify-between items-center sticky top-0 z-50 w-full border-b-[0.3px] border-[#babaff] bg-black">
             {/* Left section */}
             <div className="flex lg:gap-14 gap-4 items-center">
-                <img className="md:w-16 w-12" src="public/images/logo.png" alt="logo" />
+                <img className="md:w-16 w-12" src="/images/logo.png" alt="logo" />
             </div>
 
             {/* Desktop menu */}
