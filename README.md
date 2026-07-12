@@ -5,7 +5,6 @@
 ---
 
 ## 🚀 Live Demo
-
 Experience the game demo in action directly on the live site.
 
 ---
@@ -37,12 +36,8 @@ Experience the game demo in action directly on the live site.
 > Below is a preview of the interactive gaming demo:
 
 ![1](https://github.com/user-attachments/assets/6699678b-29c2-4d16-9115-4e30e3ff5326)
-
 ![2](https://github.com/user-attachments/assets/94e57da7-9390-4a6f-a2b4-d3d96aa36b28)
-
 ![3](https://github.com/user-attachments/assets/87ee8019-8355-40ce-9b4d-ca4355f96795)
-
-
 
 ---
 
@@ -50,7 +45,7 @@ Experience the game demo in action directly on the live site.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/zero-arena.git
+git clone https://github.com/abdhullah200/zero-arena.git
 cd zero-arena
 
 # 2. Install dependencies
@@ -58,3 +53,18 @@ npm install
 
 # 3. Start the dev server
 npm run dev
+```
+
+---
+
+<div align="center">
+  
+### 💜 Made with Love and Code by Abdullah Ariff
+
+**If you found this project helpful, please consider giving it a ⭐ on GitHub!**
+
+[![GitHub Stars](https://img.shields.io/github/stars/abdhullah200/zero-arena?style=social)](https://github.com/abdhullah200/zero-arena)
+[![GitHub Forks](https://img.shields.io/github/forks/abdhullah200/zero-arena?style=social)](https://github.com/abdhullah200/zero-arena/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/abdhullah200/zero-arena)](https://github.com/abdhullah200/zero-arena/issues)
+
+</div>
